@@ -1,16 +1,48 @@
-## Hi there 👋
+# Emre Oruc — PHP & TYPO3 Backend Entwickler
 
-<!--
-**emre-oruc/emre-oruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fachinformatiker für Anwendungsentwicklung** @ 3pc GmbH, Berlin  
+3+ Jahre Projekterfahrung · TYPO3 v10–v14 · PHP 8.x · Symfony · GitLab CI/CD
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech-Stack
+
+**Backend**
+PHP 8.x · Symfony · Extbase · Fluid · TypoScript · REST API · PHPUnit · PHPStan
+
+**CMS & Suche**
+TYPO3 (v10–v14) · WordPress · Apache Solr
+
+**Datenbank & DevOps**
+MariaDB · MySQL · Docker · DDEV · Composer · GitLab CI/CD
+
+**Tools & AI**
+GitHub Copilot · Claude Code · n8n · PhpStorm · Linux (Ubuntu, Kali)
+
+---
+
+## Was ich zuletzt gebaut habe
+
+- Datenbankmigrationen mit **5.000+ Datensätzen** von TYPO3 v7 → v13 (6 Major Versions)
+- TYPO3 **Core-Upgrades** v12→v13 und v13→v14 in Produktivumgebungen
+- **Dashboard-Widget** zur Nachverfolgung aller Content-Änderungen (Diff, Autor, Zeitstempel)
+- **Dashboard-Widget** zur automatischen Copyright-Prüfung hochgeladener Medien
+- **5+ individuelle TYPO3-Extensions** für öffentliche Auftraggeber und Mittelstand
+- **IHK-Abschlussprojekt**: TYPO3 CSV-Import-Extension mit ACID-Transaktionssicherheit (PHP 8.3)
+
+---
+
+## Zertifikate
+
+🏆 Scrum Fundamentals Certified — SCRUMstudy (2026)  
+🏆 Foundational C# with Microsoft — freeCodeCamp (2024)  
+🛡️ CISCO Ethical Hacker (2025)  
+🐍 CISCO Python Essentials 1 (2025)
+
+---
+
+## Kontakt
+
+- 🌐 [emre-oruc.de](https://emre-oruc.de)
+- 💼 [linkedin.com/in/oruc-emre](https://www.linkedin.com/in/oruc-emre)
+- 📧 o.emre0344@gmail.com
